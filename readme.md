@@ -10,6 +10,6 @@ HTML, CSS e Javascript
 
 ### Projeto final do Módulo 1 do bootcamp da IGTI
 
-<a href="https://pedropaulodf-igti-desafio-modulo1.netlify.app/" target="_blank">Veja ele no Netlify</a>
+<a href="https://pedropaulodf-igti-radio-poscats.netlify.app/" target="_blank">Veja ele no Netlify</a>
 
 <img src="img/podcast.png">
