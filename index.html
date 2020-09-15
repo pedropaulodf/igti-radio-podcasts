@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Rádio Poscasts</title>
+</head>
+<body>
+    <div class="box">
+        <h1>Rádio Podcasts</h1>
+        <input type="text" value='87.5 Mhz' id="txtMhz" readonly disabled><br>
+        <div class="estacoes">
+            <span>87.5 Mhz</span>
+            <input type="range" step="0.1" min="87.5" max="108" value="87.5" id="rangeMhz">
+            <span>108 Mhz</span>
+        </div>
+        <div class="podcasts">
+            <p>Nenhum podcast encontrado</p>
+        </div>
+    </div>
+
+    <script src="js/podcasts.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

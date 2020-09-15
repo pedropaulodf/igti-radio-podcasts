@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+.box{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+.podcasts{
+    width: 100%;
+    border: 2px solid #656565;
+    height: 140px;
+    border-radius: 10px;
+}
+.podcasts p{
+    padding: 52px 0px;
+    font-size: 2em;
+    background-color: #656565;
+    color: white;
+    margin: 0px;
+    border-radius: 7px;
+}
+.estacoes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+input[type="text"]{
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+}
+input[type="range"]{
+    width: 60%;
+    margin: 0px 20px;
+    cursor: pointer;
+}
+img{
+    width: 140px;
+    height: 140px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 7px 0px 0px 7px;
+    border-right: 1px solid #f1f1f1;
+}
+h2{
+    line-height: 14px;
+}
+h3{
+    font-weight: 200;
+    padding: 0px 20px;
+}
